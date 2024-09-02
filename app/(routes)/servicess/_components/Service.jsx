@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 // Sample images for demonstration
 const serviceImages = {
